@@ -1,6 +1,6 @@
 ## Human Resources
 
-HR solution
+HR
 
 #### License
 

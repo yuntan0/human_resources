@@ -1,0 +1,590 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:empl_no",
+ "creation": "2022-06-10 15:14:41.057694",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "empl_no",
+  "acc_unit",
+  "branch_cd",
+  "job_title",
+  "job_grade",
+  "column_break_3",
+  "last_name",
+  "department",
+  "department_name",
+  "employee_category",
+  "column_break_8",
+  "first_name",
+  "job_title_year",
+  "job_grade_year",
+  "attached",
+  "column_break_14",
+  "group_entry_date",
+  "hire_date",
+  "term_date",
+  "profile_section",
+  "preferred_name",
+  "date_of_birth",
+  "employee_rating",
+  "ssn",
+  "personal_email",
+  "company_email",
+  "cell_phone",
+  "office_phone",
+  "payroll_status",
+  "payroll_id",
+  "column_break_30",
+  "address",
+  "city",
+  "state",
+  "zip",
+  "marital_status_yn",
+  "w4",
+  "gender",
+  "race",
+  "clock_attendance",
+  "clock_lunch",
+  "column_break_38",
+  "medical_type",
+  "medical_id",
+  "dental_type",
+  "dental_id",
+  "vision_type",
+  "vision_id",
+  "life_insurance_id",
+  "401k_yn",
+  "employee_status",
+  "hire_type",
+  "column_break_48",
+  "job_group",
+  "wc_class",
+  "flsa_status",
+  "work_place",
+  "visa_status",
+  "visa_expire_date",
+  "visa_title",
+  "gas_allowance",
+  "cell_phone_allowance",
+  "pto_section",
+  "annual_leave",
+  "annual_leave_rollover",
+  "annual_leave_used",
+  "floating_holiday",
+  "floating_holiday_total",
+  "column_break_66",
+  "heading_69",
+  "annual_leave_cap",
+  "annual_leave_pending",
+  "heading_72",
+  "floating_holiday_used",
+  "column_break_69",
+  "heading_74",
+  "annual_leave_as_of_today",
+  "annual_leave_remain",
+  "heading_77",
+  "floating_holiday_pending",
+  "column_break_72",
+  "heading_79",
+  "annual_leave_total",
+  "annual_leave_total_remain",
+  "heading_82",
+  "floating_holiday_remain",
+  "experience_section",
+  "education"
+ ],
+ "fields": [
+  {
+   "fieldname": "attached",
+   "fieldtype": "Attach Image",
+   "label": "Attached"
+  },
+  {
+   "fieldname": "empl_no",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Employe No",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "acc_unit",
+   "fieldtype": "Data",
+   "label": "Corp",
+   "reqd": 1
+  },
+  {
+   "fieldname": "branch_cd",
+   "fieldtype": "Data",
+   "label": "Branch",
+   "reqd": 1
+  },
+  {
+   "fieldname": "job_title",
+   "fieldtype": "Link",
+   "label": "Job Title",
+   "options": "Job Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "job_grade",
+   "fieldtype": "Data",
+   "label": "Job Grade"
+  },
+  {
+   "fieldname": "column_break_8",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "last_name",
+   "fieldtype": "Data",
+   "label": "Last Name"
+  },
+  {
+   "fieldname": "department",
+   "fieldtype": "Data",
+   "label": "Department"
+  },
+  {
+   "fieldname": "department_name",
+   "fieldtype": "Data",
+   "label": "Department Name"
+  },
+  {
+   "fieldname": "job_title_year",
+   "fieldtype": "Int",
+   "label": "Job Title Year"
+  },
+  {
+   "fieldname": "job_grade_year",
+   "fieldtype": "Int",
+   "label": "Job Grade Year"
+  },
+  {
+   "fieldname": "column_break_14",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "label": "First Name"
+  },
+  {
+   "fieldname": "group_entry_date",
+   "fieldtype": "Date",
+   "label": "Group Entry Date"
+  },
+  {
+   "fieldname": "hire_date",
+   "fieldtype": "Date",
+   "label": "Hire Date"
+  },
+  {
+   "fieldname": "term_date",
+   "fieldtype": "Date",
+   "label": "Term Date"
+  },
+  {
+   "fieldname": "preferred_name",
+   "fieldtype": "Data",
+   "label": "Preferred Name"
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "label": "Date of Birth"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "profile_section",
+   "fieldtype": "Section Break",
+   "label": "Profile"
+  },
+  {
+   "fieldname": "employee_rating",
+   "fieldtype": "Rating",
+   "label": "Employee Rating"
+  },
+  {
+   "fieldname": "column_break_3",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ssn",
+   "fieldtype": "Data",
+   "label": "SSN"
+  },
+  {
+   "fieldname": "personal_email",
+   "fieldtype": "Data",
+   "label": "Personal Email"
+  },
+  {
+   "fieldname": "company_email",
+   "fieldtype": "Data",
+   "label": "Company Email"
+  },
+  {
+   "fieldname": "cell_phone",
+   "fieldtype": "Data",
+   "label": "Cell Phone"
+  },
+  {
+   "fieldname": "office_phone",
+   "fieldtype": "Data",
+   "label": "Office Phone"
+  },
+  {
+   "fieldname": "column_break_30",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Data",
+   "label": "Address"
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Data",
+   "label": "City"
+  },
+  {
+   "fieldname": "state",
+   "fieldtype": "Data",
+   "label": "State"
+  },
+  {
+   "fieldname": "zip",
+   "fieldtype": "Data",
+   "label": "Zip"
+  },
+  {
+   "fieldname": "w4",
+   "fieldtype": "Data",
+   "label": "W4"
+  },
+  {
+   "fieldname": "payroll_id",
+   "fieldtype": "Data",
+   "label": "Payroll ID"
+  },
+  {
+   "fieldname": "payroll_status",
+   "fieldtype": "Select",
+   "label": "Payroll Status",
+   "options": "\nPending"
+  },
+  {
+   "fieldname": "column_break_38",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "marital_status_yn",
+   "fieldtype": "Select",
+   "label": "Marital Status YN",
+   "options": "Y\nN"
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Link",
+   "label": "Gender",
+   "options": "Gender"
+  },
+  {
+   "fieldname": "race",
+   "fieldtype": "Link",
+   "label": "Race",
+   "options": "Race"
+  },
+  {
+   "fieldname": "medical_type",
+   "fieldtype": "Select",
+   "label": "Medical Type",
+   "options": "\nEEO\nE+S\nE+C\nE+FAM\nWaived\nNN"
+  },
+  {
+   "fieldname": "dental_type",
+   "fieldtype": "Select",
+   "label": "Dental Type",
+   "options": "\nEEO\nE+S\nE+C\nE+FAM\nWaived\nNN"
+  },
+  {
+   "fieldname": "medical_id",
+   "fieldtype": "Data",
+   "label": "Medical ID"
+  },
+  {
+   "fieldname": "dental_id",
+   "fieldtype": "Data",
+   "label": "Dental ID"
+  },
+  {
+   "fieldname": "vision_type",
+   "fieldtype": "Select",
+   "label": "Vision Type",
+   "options": "\nEEO\nE+S\nE+C\nE+FAM\nWaived\nNN"
+  },
+  {
+   "fieldname": "vision_id",
+   "fieldtype": "Data",
+   "label": "Vision ID"
+  },
+  {
+   "fieldname": "column_break_48",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "life_insurance_id",
+   "fieldtype": "Data",
+   "label": "Life Insurance ID"
+  },
+  {
+   "fieldname": "401k_yn",
+   "fieldtype": "Select",
+   "label": "401K YN",
+   "options": "Not Eligible\nY\nN"
+  },
+  {
+   "fieldname": "clock_attendance",
+   "fieldtype": "Select",
+   "label": "Clock Attendance",
+   "options": "Y\nN"
+  },
+  {
+   "fieldname": "clock_lunch",
+   "fieldtype": "Select",
+   "label": "Clock Lunch",
+   "options": "Y\nN"
+  },
+  {
+   "fieldname": "employee_status",
+   "fieldtype": "Select",
+   "label": "Employee Status",
+   "options": "Employeed\nResigned\nPending"
+  },
+  {
+   "fieldname": "hire_type",
+   "fieldtype": "Select",
+   "label": "Hire Type",
+   "options": "New\nExperience\nIntern\nPart Time\nSubsidiary Transfer\nHead Hunting\nOther\nRe-Hire\nIndependent Contractor"
+  },
+  {
+   "fieldname": "job_group",
+   "fieldtype": "Link",
+   "label": "Job Group",
+   "options": "Job Group"
+  },
+  {
+   "fieldname": "employee_category",
+   "fieldtype": "Link",
+   "label": "Employee Category",
+   "options": "Employee Category"
+  },
+  {
+   "fieldname": "wc_class",
+   "fieldtype": "Select",
+   "label": "WC Class",
+   "options": "\nClothing Mfg\nDriver\nFreight Handler\nPackaging\nSales\nClerical"
+  },
+  {
+   "fieldname": "flsa_status",
+   "fieldtype": "Select",
+   "label": "FLSA Status",
+   "options": "\nY\nN"
+  },
+  {
+   "fieldname": "work_place",
+   "fieldtype": "Link",
+   "label": "Work Place",
+   "options": "Work Place"
+  },
+  {
+   "fieldname": "visa_status",
+   "fieldtype": "Select",
+   "label": "Visa Status",
+   "options": "\nCA Citizen\nEmp Authorization Document\nOthers\nPermanent Resident\nH Visa\nJ Visa\nL1 Visa (Inter)\nOPT(Practical Training/F Visa)\nUS Citizen\nCA Work Permit"
+  },
+  {
+   "fieldname": "visa_expire_date",
+   "fieldtype": "Date",
+   "label": "Visa Expire Date"
+  },
+  {
+   "fieldname": "visa_title",
+   "fieldtype": "Data",
+   "label": "Visa Title"
+  },
+  {
+   "default": "No",
+   "fieldname": "gas_allowance",
+   "fieldtype": "Select",
+   "label": "Gas Allowance",
+   "options": "Yes\nNo"
+  },
+  {
+   "default": "No",
+   "fieldname": "cell_phone_allowance",
+   "fieldtype": "Select",
+   "label": "Cell Phone Allowance",
+   "options": "Yes\nNo"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "pto_section",
+   "fieldtype": "Section Break",
+   "label": "PTO"
+  },
+  {
+   "fieldname": "annual_leave_rollover",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Rollover"
+  },
+  {
+   "fieldname": "annual_leave_used",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Used"
+  },
+  {
+   "fieldname": "annual_leave_cap",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Cap"
+  },
+  {
+   "fieldname": "annual_leave_pending",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Pending"
+  },
+  {
+   "fieldname": "annual_leave_as_of_today",
+   "fieldtype": "Duration",
+   "label": "Annual Leave As of Today"
+  },
+  {
+   "fieldname": "annual_leave_remain",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Remain"
+  },
+  {
+   "fieldname": "annual_leave_total",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Total"
+  },
+  {
+   "fieldname": "annual_leave_total_remain",
+   "fieldtype": "Duration",
+   "label": "Annual Leave Total Remain"
+  },
+  {
+   "fieldname": "column_break_66",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_69",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_72",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "annual_leave",
+   "fieldtype": "Heading",
+   "label": "Annual Leave "
+  },
+  {
+   "fieldname": "floating_holiday",
+   "fieldtype": "Heading",
+   "label": "Floating Holiday"
+  },
+  {
+   "fieldname": "heading_69",
+   "fieldtype": "Heading",
+   "label": "&nbsp;"
+  },
+  {
+   "fieldname": "heading_77",
+   "fieldtype": "Heading",
+   "label": "&nbsp;"
+  },
+  {
+   "fieldname": "heading_72",
+   "fieldtype": "Heading",
+   "label": "&nbsp;"
+  },
+  {
+   "fieldname": "heading_74",
+   "fieldtype": "Heading",
+   "label": "&nbsp;"
+  },
+  {
+   "fieldname": "heading_79",
+   "fieldtype": "Heading",
+   "label": "&nbsp;"
+  },
+  {
+   "fieldname": "heading_82",
+   "fieldtype": "Heading",
+   "label": "&nbsp;"
+  },
+  {
+   "fieldname": "floating_holiday_total",
+   "fieldtype": "Duration",
+   "label": "Floating Holiday Total"
+  },
+  {
+   "fieldname": "floating_holiday_used",
+   "fieldtype": "Duration",
+   "label": "Floating Holiday Used"
+  },
+  {
+   "fieldname": "floating_holiday_pending",
+   "fieldtype": "Duration",
+   "label": "Floating Holiday Pending"
+  },
+  {
+   "fieldname": "floating_holiday_remain",
+   "fieldtype": "Duration",
+   "label": "Floating Holiday Remain"
+  },
+  {
+   "fieldname": "experience_section",
+   "fieldtype": "Section Break",
+   "label": "Experience"
+  },
+  {
+   "fieldname": "education",
+   "fieldtype": "Table",
+   "label": "Education",
+   "options": "Education"
+  }
+ ],
+ "image_field": "attached",
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-06-10 17:35:30.764328",
+ "modified_by": "Administrator",
+ "module": "Human Resources",
+ "name": "Employee File",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

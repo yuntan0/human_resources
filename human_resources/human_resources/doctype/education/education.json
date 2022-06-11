@@ -1,0 +1,90 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2022-06-10 17:34:48.314603",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "education",
+  "school",
+  "major",
+  "start_date",
+  "end_date",
+  "degree",
+  "degree_status"
+ ],
+ "fields": [
+  {
+   "fieldname": "education",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Education",
+   "options": "Hight School\nCommunity College(2)\nTechnical College(3)\nUniversity(4)\nMaster\nPH.D\nOthers"
+  },
+  {
+   "fieldname": "school",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "School"
+  },
+  {
+   "fieldname": "major",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Major"
+  },
+  {
+   "fieldname": "start_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Start Date"
+  },
+  {
+   "fieldname": "end_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "End Date"
+  },
+  {
+   "fieldname": "degree",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Degree",
+   "options": "High school/GED\nAssociates\nBachelor\nMaster\nPh.D"
+  },
+  {
+   "fieldname": "degree_status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Degree Status",
+   "options": "Yes\nNo"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-06-10 17:36:47.370056",
+ "modified_by": "Administrator",
+ "module": "Human Resources",
+ "name": "Education",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

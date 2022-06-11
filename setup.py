@@ -9,8 +9,8 @@ from human_resources import __version__ as version
 setup(
 	name="human_resources",
 	version=version,
-	description="HR solution",
-	author="Junsung Park",
+	description="HR",
+	author="John Park",
 	author_email="junsung.park@fnsusa.com",
 	packages=find_packages(),
 	zip_safe=False,
