@@ -113,23 +113,30 @@ app_license = "MIT"
 # Scheduled Tasks
 # ---------------
 
-# scheduler_events = {
-# 	"all": [
-# 		"human_resources.tasks.all"
-# 	],
-# 	"daily": [
-# 		"human_resources.tasks.daily"
-# 	],
-# 	"hourly": [
-# 		"human_resources.tasks.hourly"
-# 	],
-# 	"weekly": [
-# 		"human_resources.tasks.weekly"
-# 	],
-# 	"monthly": [
-# 		"human_resources.tasks.monthly"
-# 	],
-# }
+scheduler_events = {
+
+	"all": [
+		"human_resources.tasks.all"
+	],
+	"daily": [
+		"human_resources.tasks.daily"
+	],
+	"hourly": [
+		"human_resources.tasks.hourly"
+	],
+	"weekly": [
+		"human_resources.tasks.weekly"
+	],
+	"monthly": [
+		"human_resources.tasks.monthly"
+	],
+	"cron": {
+		"50 07 * * *": [
+			"human_resources.tasks.cron"
+		]
+	}
+}
+
 
 # Testing
 # -------
