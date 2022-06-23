@@ -200,3 +200,6 @@ scheduler_events = {
 # Recommended only for DocTypes which have limited documents with untranslated names
 # For example: Role, Gender, etc.
 # translated_search_doctypes = []
+fixtures=[
+	"Visa Status","Hire Type","Job Group","Nationality","States","Job Grade","Employee Category","Job Title","Work Place", "Corp Code",
+]

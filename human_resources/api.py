@@ -15,18 +15,22 @@ import locale
 @frappe.whitelist()
 def select_sql(**kwargs):
     statement = kwargs.get('statement')
-    database_file = os.path.join(os.getcwd(), 'develop_database.json')
-    sql_file = os.path.join(os.getcwd(), 'develop_sql.xml')
+    conditions =  kwargs.get('conditions')
     username = ""
     password = ""
     hostname = ""
     port = ""
     servicename = ""
+    sql_file = os.path.join(os.getcwd(), 'develop_sql.xml')
     with open(sql_file) as sql_f:
         sql_file = sql_f.read()
         sql_soup = BeautifulSoup(sql_file, "xml")
-        statement = sql_soup.find(id=statement)
-        sql = statement.text.strip()
+        sql_statement = sql_soup.find(id=statement)
+        sql = sql_statement.text.strip()
+        if conditions is not None:
+            sql = sql + " " + str(conditions)
+        print(sql)
+    database_file = os.path.join(os.getcwd(), 'develop_database.json')
     with open(database_file) as f:
         database = json.load(f)
         username = database["user"]
@@ -53,29 +57,29 @@ def select_sql(**kwargs):
 
 
 def execute_select(sql ,username, password, hostname ,port , servicename):
-	"""
-	Execute whatever SQL statements are passed to the method;
-	commit if specified. Do not specify fetchall() in here as
-	the SQL statement may not be a select.
-	bindvars is a dictionary of variables you pass to execute.
-	"""
+    """
+    Execute whatever SQL statements are passed to the method;
+    commit if specified. Do not specify fetchall() in here as
+    the SQL statement may not be a select.
+    bindvars is a dictionary of variables you pass to execute.
+    """
 
 
-	result = ""
-	json_data = []
+    result = ""
+    json_data = []
 
-	try:
-		db = cx_Oracle.connect(username, password, hostname + ':' + port + '/' + servicename)
-		cursor = db.cursor()
-		cursor.execute(sql)
+    try:
+        db = cx_Oracle.connect(username, password, hostname + ':' + port + '/' + servicename)
+        cursor = db.cursor()
+        cursor.execute(sql)
 
-		rv = cursor.fetchall()
-		row_headers = [x[0] for x in cursor.description]
-		json_data = []
-		for result in rv:
-			json_data.append(dict(zip(row_headers,result)))
-		cursor.close()
-		db.close()
+        rv = cursor.fetchall()
+        row_headers = [x[0] for x in cursor.description]
+        json_data = []
+        for result in rv:
+            json_data.append(dict(zip(row_headers,result)))
+        cursor.close()
+        db.close()
 		# db = cx_Oracle.connect(username, password, hostname + ':' + port + '/' + servicename)
 		# cursor = db.cursor()
 		# cursor.execute(sql)
@@ -92,11 +96,10 @@ def execute_select(sql ,username, password, hostname ,port , servicename):
 		# db.close()
 
 
-	except cx_Oracle.DatabaseError as e:
+    except cx_Oracle.DatabaseError as e:
 			# Log error as appropriate
-		raise
-
-	return json_data
+        raise
+    return json_data
 
 class Oracle(object):
 	def connect(self, username, password, hostname, port, servicename):
@@ -117,7 +120,6 @@ class Oracle(object):
 		Disconnect from the database. If this fails, for instance
 		if the connection instance doesn't exist, ignore the exception.
 		"""
-
 		try:
 			self.cursor.close()
 			self.db.close()
