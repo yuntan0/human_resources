@@ -1,14 +1,14 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:job_grade",
+ "autoname": "field:job_grade_code",
  "creation": "2022-06-10 16:16:11.215382",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "job_grade",
   "job_grade_code",
+  "job_grade",
   "rmark"
  ],
  "fields": [
@@ -25,7 +25,8 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Job Grade Code",
-   "reqd": 1
+   "reqd": 1,
+   "unique": 1
   },
   {
    "fieldname": "rmark",
@@ -35,7 +36,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-06-10 16:16:11.215382",
+ "modified": "2022-06-13 11:15:44.313966",
  "modified_by": "Administrator",
  "module": "Human Resources",
  "name": "Job Grade",
@@ -53,9 +54,22 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Employee",
+   "share": 1
   }
  ],
+ "search_fields": "job_grade_code",
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "job_grade",
+ "translate_link_fields": 1
 }

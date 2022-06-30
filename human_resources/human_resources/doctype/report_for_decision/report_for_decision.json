@@ -1,0 +1,191 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "FNS-.YYYY.MM.#####",
+ "creation": "2022-06-26 16:48:53.759229",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "approval_line",
+  "section_break_2",
+  "approval_type",
+  "draft_dept",
+  "draft_employee",
+  "draft_user",
+  "user_name",
+  "column_break_5",
+  "archive",
+  "draft_date",
+  "share_grade",
+  "company",
+  "section_break_9",
+  "title",
+  "contents",
+  "file_attachment",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "draft_dept",
+   "fieldtype": "Link",
+   "label": "Draft Dept",
+   "options": "Department"
+  },
+  {
+   "fieldname": "archive",
+   "fieldtype": "Select",
+   "label": "Archive",
+   "options": "1 Year\n3 Years\n5 Years\nPermanent"
+  },
+  {
+   "fieldname": "draft_date",
+   "fieldtype": "Date",
+   "label": "Draft Date"
+  },
+  {
+   "fieldname": "share_grade",
+   "fieldtype": "Select",
+   "label": "Share Grade",
+   "options": "General\nSecure"
+  },
+  {
+   "fieldname": "title",
+   "fieldtype": "Data",
+   "label": "Title"
+  },
+  {
+   "fieldname": "contents",
+   "fieldtype": "Text Editor",
+   "label": "Contents"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Report For Decision",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "approval_line",
+   "fieldtype": "Table",
+   "label": "Approval Line",
+   "options": "RFD Approval Line",
+   "reqd": 1
+  },
+  {
+   "fieldname": "section_break_2",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_9",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "approval_type",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Approval Type",
+   "options": "Approval Type",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "draft_employee.employee_name",
+   "fieldname": "user_name",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "User Name"
+  },
+  {
+   "fieldname": "draft_employee",
+   "fieldtype": "Link",
+   "label": "Draft Employee",
+   "options": "Employee"
+  },
+  {
+   "fetch_from": "draft_employee.user_id",
+   "fieldname": "draft_user",
+   "fieldtype": "Link",
+   "hidden": 1,
+   "label": "Draft User",
+   "options": "User"
+  },
+  {
+   "fieldname": "file_attachment",
+   "fieldtype": "Attach",
+   "label": "File Attachment"
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "ignore_user_permissions": 1,
+   "label": "Company",
+   "options": "Company"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2022-06-29 16:06:06.639367",
+ "modified_by": "Administrator",
+ "module": "Human Resources",
+ "name": "Report For Decision",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "HR Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "HR User",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Employee",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

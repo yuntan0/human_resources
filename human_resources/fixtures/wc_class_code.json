@@ -1,0 +1,74 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "WC Class Code",
+  "modified": "2022-06-28 16:26:20.563894",
+  "name": "Clothing Mfg",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "remark": null,
+  "wc_class": "2501",
+  "wc_class_name": "Clothing Mfg"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "WC Class Code",
+  "modified": "2022-06-28 16:26:27.650410",
+  "name": "Driver",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "remark": null,
+  "wc_class": "7219",
+  "wc_class_name": "Driver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "WC Class Code",
+  "modified": "2022-06-28 16:26:34.766214",
+  "name": "Freight Handler",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "remark": null,
+  "wc_class": "7360",
+  "wc_class_name": "Freight Handler"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "WC Class Code",
+  "modified": "2022-06-28 16:26:44.919851",
+  "name": "Packaging",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "remark": null,
+  "wc_class": "8018",
+  "wc_class_name": "Packaging"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "WC Class Code",
+  "modified": "2022-06-28 16:26:51.651197",
+  "name": "Sales",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "remark": null,
+  "wc_class": "8742",
+  "wc_class_name": "Sales"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "WC Class Code",
+  "modified": "2022-06-28 16:26:59.518669",
+  "name": "Clerical",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "remark": null,
+  "wc_class": "8810",
+  "wc_class_name": "Clerical"
+ }
+]

@@ -6,6 +6,7 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
+  "empl_no",
   "education",
   "school",
   "major",
@@ -19,9 +20,11 @@
    "fieldname": "education",
    "fieldtype": "Select",
    "in_list_view": 1,
+   "in_preview": 1,
    "in_standard_filter": 1,
    "label": "Education",
-   "options": "Hight School\nCommunity College(2)\nTechnical College(3)\nUniversity(4)\nMaster\nPH.D\nOthers"
+   "options": "Hight School\nCommunity College(2)\nTechnical College(3)\nUniversity(4)\nMaster\nPH.D\nOthers",
+   "width": "1"
   },
   {
    "fieldname": "school",
@@ -29,7 +32,8 @@
    "in_list_view": 1,
    "in_preview": 1,
    "in_standard_filter": 1,
-   "label": "School"
+   "label": "School",
+   "width": "2"
   },
   {
    "fieldname": "major",
@@ -37,7 +41,8 @@
    "in_list_view": 1,
    "in_preview": 1,
    "in_standard_filter": 1,
-   "label": "Major"
+   "label": "Major",
+   "width": "2"
   },
   {
    "fieldname": "start_date",
@@ -45,7 +50,8 @@
    "in_list_view": 1,
    "in_preview": 1,
    "in_standard_filter": 1,
-   "label": "Start Date"
+   "label": "Start Date",
+   "width": "1"
   },
   {
    "fieldname": "end_date",
@@ -53,7 +59,8 @@
    "in_list_view": 1,
    "in_preview": 1,
    "in_standard_filter": 1,
-   "label": "End Date"
+   "label": "End Date",
+   "width": "1"
   },
   {
    "fieldname": "degree",
@@ -62,7 +69,8 @@
    "in_preview": 1,
    "in_standard_filter": 1,
    "label": "Degree",
-   "options": "High school/GED\nAssociates\nBachelor\nMaster\nPh.D"
+   "options": "High school/GED\nAssociates\nBachelor\nMaster\nPh.D",
+   "width": "2"
   },
   {
    "fieldname": "degree_status",
@@ -71,13 +79,20 @@
    "in_preview": 1,
    "in_standard_filter": 1,
    "label": "Degree Status",
-   "options": "Yes\nNo"
+   "options": "Yes\nNo",
+   "width": "1"
+  },
+  {
+   "fieldname": "empl_no",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Employee No"
   }
  ],
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2022-06-10 17:36:47.370056",
+ "modified": "2022-06-12 23:05:09.757953",
  "modified_by": "Administrator",
  "module": "Human Resources",
  "name": "Education",

@@ -1,0 +1,68 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:hire_type_nm",
+ "creation": "2022-06-13 14:00:09.540655",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "hire_type_nm",
+  "hire_type_cd",
+  "arrg",
+  "remark"
+ ],
+ "fields": [
+  {
+   "fieldname": "hire_type_cd",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Hire Type Code",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "hire_type_nm",
+   "fieldtype": "Data",
+   "label": "Hire Type Name",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "arrg",
+   "fieldtype": "Data",
+   "label": "Arrg"
+  },
+  {
+   "fieldname": "remark",
+   "fieldtype": "Text",
+   "label": "Remark"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-06-29 16:43:02.910440",
+ "modified_by": "Administrator",
+ "module": "Human Resources",
+ "name": "Hire Type",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "search_fields": "hire_type_cd",
+ "show_preview_popup": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "title_field": "hire_type_nm"
+}

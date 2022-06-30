@@ -201,5 +201,7 @@ scheduler_events = {
 # For example: Role, Gender, etc.
 # translated_search_doctypes = []
 fixtures=[
-	"Visa Status","Hire Type","Job Group","Nationality","States","Job Grade","Employee Category","Job Title","Work Place", "Corp Code",
+	"Visa Status","Hire Type","Job Group","Nationality","States","Job Grade","Employee Category","Job Title",
+	"Work Place", "Corp Code","Branch","HR Department","Designation","Department","Employment Type","WC Class Code",
+	"Race","Insurance Type","Print Format"
 ]

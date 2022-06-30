@@ -7,22 +7,23 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
+  "attached",
   "empl_no",
   "acc_unit",
   "branch_cd",
   "job_title",
-  "job_grade",
   "column_break_3",
   "last_name",
+  "job_grade",
   "department",
   "department_name",
-  "employee_category",
   "column_break_8",
   "first_name",
+  "employee_category",
   "job_title_year",
   "job_grade_year",
-  "attached",
   "column_break_14",
+  "full_name",
   "group_entry_date",
   "hire_date",
   "term_date",
@@ -94,7 +95,8 @@
   "heading_82",
   "floating_holiday_remain",
   "experience_section",
-  "education"
+  "education",
+  "experience"
  ],
  "fields": [
   {
@@ -105,15 +107,20 @@
   {
    "fieldname": "empl_no",
    "fieldtype": "Data",
+   "in_filter": 1,
+   "in_global_search": 1,
    "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
    "label": "Employe No",
    "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "acc_unit",
-   "fieldtype": "Data",
+   "fieldtype": "Link",
    "label": "Corp",
+   "options": "Corp Code",
    "reqd": 1
   },
   {
@@ -125,14 +132,20 @@
   {
    "fieldname": "job_title",
    "fieldtype": "Link",
+   "in_filter": 1,
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
    "label": "Job Title",
    "options": "Job Title",
    "reqd": 1
   },
   {
    "fieldname": "job_grade",
-   "fieldtype": "Data",
-   "label": "Job Grade"
+   "fieldtype": "Link",
+   "label": "Job Grade",
+   "options": "Job Grade"
   },
   {
    "fieldname": "column_break_8",
@@ -215,6 +228,11 @@
   {
    "fieldname": "ssn",
    "fieldtype": "Data",
+   "in_filter": 1,
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
    "label": "SSN"
   },
   {
@@ -550,6 +568,7 @@
    "label": "Floating Holiday Remain"
   },
   {
+   "collapsible": 1,
    "fieldname": "experience_section",
    "fieldtype": "Section Break",
    "label": "Experience"
@@ -559,12 +578,23 @@
    "fieldtype": "Table",
    "label": "Education",
    "options": "Education"
+  },
+  {
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "label": "Full Name"
+  },
+  {
+   "fieldname": "experience",
+   "fieldtype": "Table",
+   "label": "Experience",
+   "options": "Employee Experience"
   }
  ],
  "image_field": "attached",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-06-10 17:35:30.764328",
+ "modified": "2022-06-13 09:03:42.516151",
  "modified_by": "Administrator",
  "module": "Human Resources",
  "name": "Employee File",
@@ -582,9 +612,24 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Employee",
+   "share": 1
   }
  ],
+ "search_fields": "empl_no",
+ "show_name_in_global_search": 1,
+ "show_preview_popup": 1,
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "full_name",
+ "translate_link_fields": 1
 }

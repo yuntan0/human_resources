@@ -1,14 +1,16 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:job_detail",
+ "autoname": "field:job_code",
  "creation": "2022-06-10 16:00:35.457508",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
+  "job_code",
   "job_detail",
   "job_group",
+  "arrg",
   "remark"
  ],
  "fields": [
@@ -17,25 +19,36 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Job Detail",
-   "reqd": 1,
-   "unique": 1
+   "reqd": 1
   },
   {
    "fieldname": "job_group",
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Job Group",
-   "options": "\nSales\nOperation\nSales Operation\nSupport"
+   "options": "\nSales\nOperation\nSales Operation\nSupport\nSales Planning"
   },
   {
    "fieldname": "remark",
    "fieldtype": "Text Editor",
    "label": "Remark"
+  },
+  {
+   "fieldname": "job_code",
+   "fieldtype": "Data",
+   "label": "Job Code",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "arrg",
+   "fieldtype": "Int",
+   "label": "Arrg"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-06-10 16:01:24.762598",
+ "modified": "2022-06-13 13:39:53.745497",
  "modified_by": "Administrator",
  "module": "Human Resources",
  "name": "Job Group",
@@ -53,9 +66,24 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Employee",
+   "share": 1
   }
  ],
+ "search_fields": "job_code",
+ "show_name_in_global_search": 1,
+ "show_preview_popup": 1,
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "job_detail",
+ "translate_link_fields": 1
 }

@@ -1,0 +1,95 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2022-06-12 22:43:55.110055",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "emp_no",
+  "company_name",
+  "dept",
+  "job_title",
+  "start_date",
+  "end_date",
+  "svc_period"
+ ],
+ "fields": [
+  {
+   "fieldname": "emp_no",
+   "fieldtype": "Data",
+   "label": "Employee No"
+  },
+  {
+   "fieldname": "company_name",
+   "fieldtype": "Data",
+   "in_filter": 1,
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Company",
+   "width": "2"
+  },
+  {
+   "fieldname": "dept",
+   "fieldtype": "Data",
+   "in_filter": 1,
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Dept",
+   "width": "2"
+  },
+  {
+   "fieldname": "job_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Job Title",
+   "width": "2"
+  },
+  {
+   "fieldname": "start_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Start Date",
+   "width": "1"
+  },
+  {
+   "fieldname": "end_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "End Date",
+   "width": "1"
+  },
+  {
+   "fieldname": "svc_period",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "SVC Period",
+   "width": "2"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-06-12 22:47:48.971298",
+ "modified_by": "Administrator",
+ "module": "Human Resources",
+ "name": "Employee Experience",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
