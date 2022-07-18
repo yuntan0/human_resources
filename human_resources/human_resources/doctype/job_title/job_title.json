@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:job_title_code",
+ "autoname": "field:job_title",
  "creation": "2022-06-10 16:18:59.362717",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -46,12 +46,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-06-21 13:34:55.705828",
+ "modified": "2022-07-03 22:24:46.607502",
  "modified_by": "Administrator",
  "module": "Human Resources",
  "name": "Job Title",
  "name_case": "UPPER CASE",
- "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
@@ -76,12 +75,10 @@
    "share": 1
   }
  ],
- "search_fields": "job_title_code",
+ "search_fields": "job_title",
  "show_name_in_global_search": 1,
  "show_preview_popup": 1,
- "show_title_field_in_link": 1,
  "sort_field": "job_title_code",
  "sort_order": "ASC",
- "states": [],
- "title_field": "job_title"
+ "title_field": "job_title_code"
 }

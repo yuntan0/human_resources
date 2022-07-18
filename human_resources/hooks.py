@@ -110,6 +110,12 @@ app_license = "MIT"
 #	}
 # }
 
+# doc_events = {
+# 	"Report For Decision" : {
+# 		"onload" :[],
+# 	}
+# }
+
 # Scheduled Tasks
 # ---------------
 
@@ -202,6 +208,6 @@ scheduler_events = {
 # translated_search_doctypes = []
 fixtures=[
 	"Visa Status","Hire Type","Job Group","Nationality","States","Job Grade","Employee Category","Job Title",
-	"Work Place", "Corp Code","Branch","HR Department","Designation","Department","Employment Type","WC Class Code",
+	"Work Place", "Corp Code","Branch","Designation","Employment Type","WC Class Code", "Scholarship",
 	"Race","Insurance Type","Print Format"
 ]

@@ -1,0 +1,52 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:scholarship",
+ "creation": "2022-07-04 21:32:13.937189",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "scholarship",
+  "code"
+ ],
+ "fields": [
+  {
+   "fieldname": "scholarship",
+   "fieldtype": "Data",
+   "label": "Scholarship",
+   "unique": 1
+  },
+  {
+   "fieldname": "code",
+   "fieldtype": "Data",
+   "label": "Code",
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-05 17:34:27.138107",
+ "modified_by": "Administrator",
+ "module": "Human Resources",
+ "name": "Scholarship",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "search_fields": "scholarship",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "title_field": "scholarship"
+}

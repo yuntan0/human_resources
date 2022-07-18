@@ -22,6 +22,7 @@
   "section_break_9",
   "title",
   "contents",
+  "approval_count",
   "file_attachment",
   "amended_from"
  ],
@@ -30,7 +31,8 @@
    "fieldname": "draft_dept",
    "fieldtype": "Link",
    "label": "Draft Dept",
-   "options": "Department"
+   "options": "Department",
+   "set_only_once": 1
   },
   {
    "fieldname": "archive",
@@ -41,7 +43,8 @@
   {
    "fieldname": "draft_date",
    "fieldtype": "Date",
-   "label": "Draft Date"
+   "label": "Draft Date",
+   "read_only": 1
   },
   {
    "fieldname": "share_grade",
@@ -52,12 +55,14 @@
   {
    "fieldname": "title",
    "fieldtype": "Data",
-   "label": "Title"
+   "label": "Title",
+   "reqd": 1
   },
   {
    "fieldname": "contents",
    "fieldtype": "Text Editor",
-   "label": "Contents"
+   "label": "Contents",
+   "reqd": 1
   },
   {
    "fieldname": "amended_from",
@@ -100,13 +105,16 @@
    "fieldname": "user_name",
    "fieldtype": "Data",
    "hidden": 1,
-   "label": "User Name"
+   "label": "User Name",
+   "set_only_once": 1
   },
   {
    "fieldname": "draft_employee",
    "fieldtype": "Link",
    "label": "Draft Employee",
-   "options": "Employee"
+   "options": "Employee",
+   "read_only": 1,
+   "set_only_once": 1
   },
   {
    "fetch_from": "draft_employee.user_id",
@@ -114,7 +122,8 @@
    "fieldtype": "Link",
    "hidden": 1,
    "label": "Draft User",
-   "options": "User"
+   "options": "User",
+   "set_only_once": 1
   },
   {
    "fieldname": "file_attachment",
@@ -124,15 +133,23 @@
   {
    "fieldname": "company",
    "fieldtype": "Link",
+   "hidden": 1,
    "ignore_user_permissions": 1,
    "label": "Company",
-   "options": "Company"
+   "options": "Company",
+   "set_only_once": 1
+  },
+  {
+   "fieldname": "approval_count",
+   "fieldtype": "Int",
+   "hidden": 1,
+   "label": "Approval Count"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2022-06-29 16:06:06.639367",
+ "modified": "2022-07-14 06:10:57.017142",
  "modified_by": "Administrator",
  "module": "Human Resources",
  "name": "Report For Decision",
@@ -183,6 +200,7 @@
    "report": 1,
    "role": "Employee",
    "share": 1,
+   "submit": 1,
    "write": 1
   }
  ],
