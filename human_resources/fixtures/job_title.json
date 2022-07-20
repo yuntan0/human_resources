@@ -1,1 +1,122 @@
-[]
+[
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\uc0ac\uc6d0",
+  "job_title": "Staff",
+  "job_title_code": "B70",
+  "modified": "2022-07-03 22:29:12.730738",
+  "name": "Staff",
+  "remark": "\uc0ac\uc6d0"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\ub300\ub9ac",
+  "job_title": "Assistant Manager",
+  "job_title_code": "B50",
+  "modified": "2022-07-03 22:29:12.757863",
+  "name": "Assistant Manager",
+  "remark": "\ub300\ub9ac"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\uacfc\uc7a5",
+  "job_title": "Manager",
+  "job_title_code": "B40",
+  "modified": "2022-07-03 22:29:12.769234",
+  "name": "Manager",
+  "remark": "\uacfc\uc7a5"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\ucc28\uc7a5",
+  "job_title": "Deputy General Manager",
+  "job_title_code": "B30",
+  "modified": "2022-07-03 22:29:12.784721",
+  "name": "Deputy General Manager",
+  "remark": "\ucc28\uc7a5"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\ubd80\uc7a5",
+  "job_title": "General Manager",
+  "job_title_code": "B20",
+  "modified": "2022-07-03 22:29:12.794247",
+  "name": "General Manager",
+  "remark": "\ubd80\uc7a5"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\uc218\uc11d\ubd80\uc7a5",
+  "job_title": "Director",
+  "job_title_code": "B10",
+  "modified": "2022-07-03 22:29:12.803087",
+  "name": "Director",
+  "remark": "\uc218\uc11d\ubd80\uc7a5"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\uc0c1\ubb34",
+  "job_title": "Executive Director",
+  "job_title_code": "A70",
+  "modified": "2022-07-03 22:29:12.812516",
+  "name": "Executive Director",
+  "remark": "\uc0c1\ubb34"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\uc804\ubb34",
+  "job_title": "Senior Executive Director",
+  "job_title_code": "A60",
+  "modified": "2022-07-03 22:29:12.860902",
+  "name": "Senior Executive Director",
+  "remark": "\uc804\ubb34"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\ubd80\uc0ac\uc7a5",
+  "job_title": "Vice-President",
+  "job_title_code": "A40",
+  "modified": "2022-07-03 22:29:12.905845",
+  "name": "Vice-President",
+  "remark": "\ubd80\uc0ac\uc7a5"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "\uc0ac\uc7a5",
+  "job_title": "President",
+  "job_title_code": "A30",
+  "modified": "2022-07-03 22:29:12.917603",
+  "name": "President",
+  "remark": "\uc0ac\uc7a5"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "CEO",
+  "job_title": "CEO",
+  "job_title_code": "A20",
+  "modified": "2022-07-03 22:29:12.927513",
+  "name": "CEO",
+  "remark": "CEO"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Job Title",
+  "job_kor_title": "COO",
+  "job_title": "COO",
+  "job_title_code": "A10",
+  "modified": "2022-07-03 22:29:12.936513",
+  "name": "COO",
+  "remark": "COO"
+ }
+]

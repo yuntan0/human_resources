@@ -5,10 +5,7 @@
   "emp_type_code": null,
   "employee_type_name": "Full Time",
   "modified": "2022-06-22 15:10:25.356885",
-  "name": "Full Time",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Full Time"
  },
  {
   "docstatus": 0,
@@ -16,10 +13,7 @@
   "emp_type_code": null,
   "employee_type_name": "Part Time",
   "modified": "2022-06-22 15:10:25.362503",
-  "name": "Part Time",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Part Time"
  },
  {
   "docstatus": 0,
@@ -27,10 +21,7 @@
   "emp_type_code": "10",
   "employee_type_name": "Executive",
   "modified": "2022-06-24 14:49:53.051655",
-  "name": "Executive",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Executive"
  },
  {
   "docstatus": 0,
@@ -38,10 +29,7 @@
   "emp_type_code": "110",
   "employee_type_name": "Intern-OPT",
   "modified": "2022-06-24 14:52:03.323701",
-  "name": "Intern-OPT",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Intern-OPT"
  },
  {
   "docstatus": 0,
@@ -49,10 +37,7 @@
   "emp_type_code": "100",
   "employee_type_name": "Independent Contractor",
   "modified": "2022-06-24 14:51:42.051174",
-  "name": "Independent Contractor",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Independent Contractor"
  },
  {
   "docstatus": 0,
@@ -60,10 +45,7 @@
   "emp_type_code": "25",
   "employee_type_name": "Full Time-OPT",
   "modified": "2022-06-24 14:51:30.751393",
-  "name": "Full Time-OPT",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Full Time-OPT"
  },
  {
   "docstatus": 0,
@@ -71,10 +53,7 @@
   "emp_type_code": "90",
   "employee_type_name": "Intern",
   "modified": "2022-06-24 14:50:17.518365",
-  "name": "Intern",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Intern"
  },
  {
   "docstatus": 0,
@@ -82,10 +61,7 @@
   "emp_type_code": "30",
   "employee_type_name": "Full Driver",
   "modified": "2022-06-24 14:50:08.869135",
-  "name": "Full Driver",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Full Driver"
  },
  {
   "docstatus": 0,
@@ -93,9 +69,6 @@
   "emp_type_code": "80",
   "employee_type_name": "Temporary",
   "modified": "2022-06-24 14:52:14.972753",
-  "name": "Temporary",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Temporary"
  }
 ]

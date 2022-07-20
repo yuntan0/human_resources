@@ -1,0 +1,58 @@
+[
+ {
+  "code": "07",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-05 17:35:04.887894",
+  "name": "University(4)",
+  "scholarship": "University(4)"
+ },
+ {
+  "code": "04",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-04 21:43:30.532329",
+  "name": "High School",
+  "scholarship": "High School"
+ },
+ {
+  "code": "05",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-05 17:34:46.225443",
+  "name": "Community College(2)",
+  "scholarship": "Community College(2)"
+ },
+ {
+  "code": "06",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-04 21:43:57.455212",
+  "name": "Technical College(3)",
+  "scholarship": "Technical College(3)"
+ },
+ {
+  "code": "08",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-04 21:44:26.695744",
+  "name": "Master",
+  "scholarship": "Master"
+ },
+ {
+  "code": "10",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-04 21:44:37.300932",
+  "name": "PH.D",
+  "scholarship": "PH.D"
+ },
+ {
+  "code": "99",
+  "docstatus": 0,
+  "doctype": "Scholarship",
+  "modified": "2022-07-04 21:44:50.745478",
+  "name": "Others",
+  "scholarship": "Others"
+ }
+]

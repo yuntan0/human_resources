@@ -7,9 +7,6 @@
   "hire_type_nm": "New",
   "modified": "2022-06-29 16:40:42.583561",
   "name": "New",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -20,9 +17,6 @@
   "hire_type_nm": "002",
   "modified": "2022-06-29 16:43:32.676664",
   "name": "Experience",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -33,9 +27,6 @@
   "hire_type_nm": "003",
   "modified": "2022-06-29 16:43:47.536102",
   "name": "Subsidiary Transfer",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -46,9 +37,6 @@
   "hire_type_nm": "004",
   "modified": "2022-06-29 16:44:01.044975",
   "name": "Head Hunting",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -59,9 +47,6 @@
   "hire_type_nm": "005",
   "modified": "2022-06-29 16:44:14.137120",
   "name": "Other",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -72,9 +57,6 @@
   "hire_type_nm": "006",
   "modified": "2022-06-29 16:44:25.340461",
   "name": "Re-Hire",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -85,9 +67,6 @@
   "hire_type_nm": "007",
   "modified": "2022-06-29 16:44:34.935506",
   "name": "Intern",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -98,9 +77,6 @@
   "hire_type_nm": "008",
   "modified": "2022-06-29 16:44:45.890632",
   "name": "Part Time",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  },
  {
@@ -111,9 +87,6 @@
   "hire_type_nm": "009",
   "modified": "2022-06-29 16:44:58.015792",
   "name": "Independent Contractor",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null
  }
 ]

@@ -4,9 +4,6 @@
   "doctype": "Insurance Type",
   "modified": "2022-06-24 14:38:17.946541",
   "name": "EC",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "E+C",
   "type_code": "EC",
   "type_name": "E+C"
@@ -16,9 +13,6 @@
   "doctype": "Insurance Type",
   "modified": "2022-06-24 14:38:41.956141",
   "name": "EE",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "type_code": "EE",
   "type_name": "EEO"
@@ -28,9 +22,6 @@
   "doctype": "Insurance Type",
   "modified": "2022-06-24 14:39:05.361610",
   "name": "EF",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "type_code": "EF",
   "type_name": "E+FAM"
@@ -40,9 +31,6 @@
   "doctype": "Insurance Type",
   "modified": "2022-06-24 14:39:16.557518",
   "name": "ES",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "type_code": "ES",
   "type_name": "E+S"
@@ -52,11 +40,17 @@
   "doctype": "Insurance Type",
   "modified": "2022-06-24 14:39:25.536948",
   "name": "WV",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "type_code": "WV",
   "type_name": "Waived"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insurance Type",
+  "modified": "2022-06-29 21:38:25.294411",
+  "name": "NN",
+  "remark": null,
+  "type_code": "NN",
+  "type_name": "NN"
  }
 ]

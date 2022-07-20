@@ -7,9 +7,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.301293",
   "name": "President",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -20,9 +17,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.349009",
   "name": "Executive Director",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -33,9 +27,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.362228",
   "name": "Coordinator",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -46,9 +37,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.375278",
   "name": "Account Manager",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -59,9 +47,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.385814",
   "name": "Sr. Specialist",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -72,9 +57,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.398318",
   "name": "Dispatcher",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -85,9 +67,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.409737",
   "name": "Freight Handler",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -98,9 +77,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.421745",
   "name": "D.Driver-Leader",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -111,9 +87,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.434238",
   "name": "D.Driver-Senior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -124,9 +97,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.445939",
   "name": "D.Driver-Junior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -137,9 +107,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.461238",
   "name": "L.Driver-Leader",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -150,9 +117,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.532050",
   "name": "L.Driver-Senior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -163,9 +127,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.551919",
   "name": "L.Driver-Junior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -176,9 +137,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.560325",
   "name": "LPK Operation 1-Leader",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -189,9 +147,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.569569",
   "name": "LPK Operation 1-Senior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -202,9 +157,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.582079",
   "name": "LPK Operation 1-Junior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -215,9 +167,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.595267",
   "name": "LPK Operation 2-Leader",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -228,9 +177,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.609176",
   "name": "LPK Operation 2-Senior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -241,9 +187,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.680873",
   "name": "LPK Operation 2-Junior",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -254,9 +197,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.766472",
   "name": "Engineer",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -267,9 +207,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.886984",
   "name": "Technical Leader",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -280,9 +217,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:42.978489",
   "name": "General Counsel",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -293,9 +227,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.072086",
   "name": "CEO",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -306,9 +237,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.094441",
   "name": "Yard Goat Driver",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -319,9 +247,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.102099",
   "name": "COO",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -332,9 +257,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.126878",
   "name": "Specialist_TORWH",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -345,9 +267,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.142150",
   "name": "Specialist_MOWH",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -358,9 +277,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.152304",
   "name": "Specialist_WH",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -371,9 +287,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.162913",
   "name": "Sr. Engineer",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -384,9 +297,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.173642",
   "name": "Senior Director",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -397,9 +307,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.185861",
   "name": "Director",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -410,9 +317,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.197816",
   "name": "Team Manager",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -423,9 +327,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.212829",
   "name": "Part Manager",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -436,9 +337,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.248612",
   "name": "Machine Operator",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -449,9 +347,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.287950",
   "name": "Team Member",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  },
  {
@@ -462,9 +357,6 @@
   "doctype": "Designation",
   "modified": "2022-06-24 15:33:43.424848",
   "name": "Specialist",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "skills": []
  }
 ]

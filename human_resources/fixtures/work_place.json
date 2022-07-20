@@ -4,9 +4,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.169768",
   "name": "AMD",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "work_place": "Mobile",
   "work_place_code": "AMD"
@@ -16,9 +13,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.204268",
   "name": "ATL",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc560\ud2c0\ub780\ud0c0",
   "work_place": "ATL",
   "work_place_code": "ATL"
@@ -28,9 +22,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.214151",
   "name": "CAR",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uce98\uac70\ub9ac",
   "work_place": "Calgary",
   "work_place_code": "CAR"
@@ -40,9 +31,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.224169",
   "name": "CHI",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc2dc\uce74\uace0",
   "work_place": "CHI",
   "work_place_code": "CHI"
@@ -52,9 +40,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.232802",
   "name": "CHS",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "work_place": "Charleston",
   "work_place_code": "CHS"
@@ -64,9 +49,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.240354",
   "name": "COL",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ucf5c\ub86c\ube44\uc544",
   "work_place": "Colombia",
   "work_place_code": "COL"
@@ -76,9 +58,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.246837",
   "name": "DFW",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ub2ec\ub77c\uc2a4",
   "work_place": "DFW",
   "work_place_code": "DFW"
@@ -88,9 +67,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.254144",
   "name": "EDM",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc560\ub4dc\ubaac\ud1a4",
   "work_place": "Edmonton",
   "work_place_code": "EDM"
@@ -100,9 +76,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.260827",
   "name": "FON",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ud3f0\ud0c0\ub098",
   "work_place": "Fontana",
   "work_place_code": "FON"
@@ -112,9 +85,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.270320",
   "name": "HOU",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ud734\uc2a4\ud134",
   "work_place": "Houston",
   "work_place_code": "HOU"
@@ -124,9 +94,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.277163",
   "name": "HUB",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "CHUB",
   "work_place": "CHUB",
   "work_place_code": "HUB"
@@ -136,9 +103,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.285065",
   "name": "KOR",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "work_place": "KOREA",
   "work_place_code": "KOR"
@@ -148,9 +112,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.292635",
   "name": "LAX",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc5d8\uc5d0\uc774",
   "work_place": "LAX",
   "work_place_code": "LAX"
@@ -160,9 +121,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.299380",
   "name": "LPK",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "LPK",
   "work_place": "LPK",
   "work_place_code": "LPK"
@@ -172,9 +130,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.306759",
   "name": "LRD",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ub77c\ub808\ub3c4",
   "work_place": "Laredo",
   "work_place_code": "LRD"
@@ -184,9 +139,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.312947",
   "name": "MFE",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ub9e5\uc54c\ub80c",
   "work_place": "McAllen",
   "work_place_code": "MFE"
@@ -196,9 +148,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.320043",
   "name": "MIA",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ub9c8\uc774\uc560\ubbf8",
   "work_place": "MIA",
   "work_place_code": "MIA"
@@ -208,9 +157,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.326507",
   "name": "MIC",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ubbf8\uc2dc\uac74",
   "work_place": "Michigan",
   "work_place_code": "MIC"
@@ -220,9 +166,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.333439",
   "name": "MN",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ubbf8\ub124\uc18c\ud0c0",
   "work_place": "Minnesota",
   "work_place_code": "MN"
@@ -232,9 +175,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.340182",
   "name": "MO",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "work_place": "Kansas City",
   "work_place_code": "MO"
@@ -244,9 +184,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.346430",
   "name": "MOT",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ubaac\ud2b8\ub9ac\uc62c",
   "work_place": "Montereal",
   "work_place_code": "MOT"
@@ -256,9 +193,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.352985",
   "name": "NJ",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ub274\uc800\uc9c0",
   "work_place": "NJ",
   "work_place_code": "NJ"
@@ -268,9 +202,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.359713",
   "name": "NY",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ub274\uc695",
   "work_place": "NY",
   "work_place_code": "NY"
@@ -280,9 +211,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.366416",
   "name": "OHO",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc624\ud558\uc694",
   "work_place": "Ohio",
   "work_place_code": "OHO"
@@ -292,9 +220,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.374165",
   "name": "PAN",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ud30c\ub098\ub9c8",
   "work_place": "Panama",
   "work_place_code": "PAN"
@@ -304,9 +229,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.380635",
   "name": "PDX",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ud3ec\ub4e4\ub80c\ub4dc",
   "work_place": "PDX",
   "work_place_code": "PDX"
@@ -316,9 +238,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.388348",
   "name": "SAV",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc0ac\ubc14\ub098",
   "work_place": "Savannah",
   "work_place_code": "SAV"
@@ -328,9 +247,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.394316",
   "name": "SEA",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "work_place": "Tacoma/Seattle",
   "work_place_code": "SEA"
@@ -340,9 +256,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.400684",
   "name": "SFO",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\uc0cc\ud504\ub780",
   "work_place": "SFO",
   "work_place_code": "SFO"
@@ -352,9 +265,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.407356",
   "name": "TN",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "work_place": "TENNESSEE",
   "work_place_code": "TN"
@@ -364,9 +274,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.414203",
   "name": "TOR",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ud1a0\ub860\ud1a0",
   "work_place": "Toronto",
   "work_place_code": "TOR"
@@ -376,9 +283,6 @@
   "doctype": "Work Place",
   "modified": "2022-06-28 16:16:19.420904",
   "name": "VAN",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": "\ubca4\ucfe0\ubc84",
   "work_place": "Vancouver",
   "work_place_code": "VAN"

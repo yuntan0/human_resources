@@ -8,10 +8,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 13:59:49.031795",
-  "name": "FNS, Inc (HQR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (HQR)"
  },
  {
   "address": null,
@@ -22,10 +19,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.372108",
-  "name": "APAC Customs Brokers HQ",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC Customs Brokers HQ"
  },
  {
   "address": null,
@@ -36,10 +30,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.448059",
-  "name": "APAC MIA Customs Brokers",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC MIA Customs Brokers"
  },
  {
   "address": null,
@@ -50,10 +41,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.500307",
-  "name": "APAC Customs Brokers",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC Customs Brokers"
  },
  {
   "address": null,
@@ -64,10 +52,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.542900",
-  "name": "APAC CHICAGO",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC CHICAGO"
  },
  {
   "address": null,
@@ -78,10 +63,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.584709",
-  "name": "APAC CHICAGO(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC CHICAGO(HQ)"
  },
  {
   "address": null,
@@ -92,10 +74,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.610491",
-  "name": "APAC DALLAS INTERSTATE",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC DALLAS INTERSTATE"
  },
  {
   "address": null,
@@ -106,10 +85,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.625325",
-  "name": "APAC DALLAS",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC DALLAS"
  },
  {
   "address": null,
@@ -120,10 +96,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.642514",
-  "name": "HOU WH",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "HOU WH"
  },
  {
   "address": null,
@@ -134,10 +107,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.658224",
-  "name": "APAC DALLAS(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC DALLAS(HQ)"
  },
  {
   "address": null,
@@ -148,10 +118,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.671619",
-  "name": "APAC FREIGHT, LLC (HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC FREIGHT, LLC (HQ)"
  },
  {
   "address": null,
@@ -162,10 +129,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.683569",
-  "name": "APAC FREIGHT, LLC (DRAYAGE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC FREIGHT, LLC (DRAYAGE)"
  },
  {
   "address": null,
@@ -176,10 +140,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.697132",
-  "name": "APAC MOBILE (MOB)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC MOBILE (MOB)"
  },
  {
   "address": null,
@@ -190,10 +151,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.710416",
-  "name": "APAC MOBILE HQ",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC MOBILE HQ"
  },
  {
   "address": null,
@@ -204,10 +162,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.721877",
-  "name": "APAC MOBILE DRAYAGE",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC MOBILE DRAYAGE"
  },
  {
   "address": null,
@@ -218,10 +173,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.733314",
-  "name": "APAC LONG HAUL",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC LONG HAUL"
  },
  {
   "address": null,
@@ -232,10 +184,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.747882",
-  "name": "APAC DRAYAGE",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC DRAYAGE"
  },
  {
   "address": null,
@@ -246,10 +195,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.762533",
-  "name": "APAC DRAYAGE(SEA)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC DRAYAGE(SEA)"
  },
  {
   "address": null,
@@ -260,10 +206,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.778246",
-  "name": "APAC HQ",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "APAC HQ"
  },
  {
   "address": null,
@@ -274,10 +217,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.791049",
-  "name": "PANTOS CANADA (MTL)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA (MTL)"
  },
  {
   "address": null,
@@ -288,10 +228,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.807867",
-  "name": "PANTOS CANADA (PRJ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA (PRJ)"
  },
  {
   "address": null,
@@ -302,10 +239,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.823966",
-  "name": "PANTOS CANADA (VAN)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA (VAN)"
  },
  {
   "address": null,
@@ -316,10 +250,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.846587",
-  "name": "PANTOS CANADA (TOR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA (TOR)"
  },
  {
   "address": null,
@@ -330,10 +261,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:48.907979",
-  "name": "PANTOS CANADA (HQR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA (HQR)"
  },
  {
   "address": null,
@@ -344,10 +272,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.013129",
-  "name": "CORNERSTONE(MOBILE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "CORNERSTONE(MOBILE)"
  },
  {
   "address": null,
@@ -358,10 +283,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.084434",
-  "name": "CORNERSTONE(Charleston)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "CORNERSTONE(Charleston)"
  },
  {
   "address": null,
@@ -372,10 +294,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.120990",
-  "name": "CORNERSTONE(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "CORNERSTONE(HQ)"
  },
  {
   "address": null,
@@ -386,10 +305,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.185216",
-  "name": "CORNERSTONE(DRAYAGE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "CORNERSTONE(DRAYAGE)"
  },
  {
   "address": null,
@@ -400,10 +316,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.291929",
-  "name": "CORNERSTONE(INTERSTATE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "CORNERSTONE(INTERSTATE)"
  },
  {
   "address": null,
@@ -414,10 +327,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.348409",
-  "name": "FNS Trading (HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Trading (HQ)"
  },
  {
   "address": null,
@@ -428,10 +338,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.384162",
-  "name": "FNS Trading (Operation)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Trading (Operation)"
  },
  {
   "address": null,
@@ -442,10 +349,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.419602",
-  "name": "GENIEZIP DRAYAGE BROKERS",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "GENIEZIP DRAYAGE BROKERS"
  },
  {
   "address": null,
@@ -456,10 +360,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.444536",
-  "name": "GENIEZIP BROKERS(BROKERAGE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "GENIEZIP BROKERS(BROKERAGE)"
  },
  {
   "address": null,
@@ -470,10 +371,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.452386",
-  "name": "GENIEZIP BROKERS(DRAYAGE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "GENIEZIP BROKERS(DRAYAGE)"
  },
  {
   "address": null,
@@ -484,10 +382,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.477937",
-  "name": "GENIEZIP BROKERS(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "GENIEZIP BROKERS(HQ)"
  },
  {
   "address": null,
@@ -498,10 +393,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.495627",
-  "name": "Great America Trans(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Great America Trans(HQ)"
  },
  {
   "address": null,
@@ -512,10 +404,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.514066",
-  "name": "Great America Trans(TK)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "Great America Trans(TK)"
  },
  {
   "address": null,
@@ -526,10 +415,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.529266",
-  "name": "HELISTAR TRANSPORTATION VAN",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "HELISTAR TRANSPORTATION VAN"
  },
  {
   "address": null,
@@ -540,10 +426,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.542380",
-  "name": "HELISTAR TRANSPORTATION HQ",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "HELISTAR TRANSPORTATION HQ"
  },
  {
   "address": null,
@@ -554,10 +437,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.558890",
-  "name": "HELISTAR TRANSPORTATION TOR",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "HELISTAR TRANSPORTATION TOR"
  },
  {
   "address": null,
@@ -568,10 +448,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.581289",
-  "name": "JEFFREY (ATL)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "JEFFREY (ATL)"
  },
  {
   "address": null,
@@ -582,10 +459,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.633068",
-  "name": "JEFFREY (ATL HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "JEFFREY (ATL HQ)"
  },
  {
   "address": null,
@@ -596,10 +470,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.756678",
-  "name": "JEFFREY FREIGHT(HQR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "JEFFREY FREIGHT(HQR)"
  },
  {
   "address": null,
@@ -610,10 +481,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.841149",
-  "name": "JEFFREY FREIGHT(Long Haul)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "JEFFREY FREIGHT(Long Haul)"
  },
  {
   "address": null,
@@ -624,10 +492,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:49.976886",
-  "name": "JEFFREY FREIGHT(TRUCKING)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "JEFFREY FREIGHT(TRUCKING)"
  },
  {
   "address": null,
@@ -638,10 +503,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.040570",
-  "name": "FNS, KOREA(SEL)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, KOREA(SEL)"
  },
  {
   "address": null,
@@ -652,10 +514,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.097132",
-  "name": "MTSP HQR",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "MTSP HQR"
  },
  {
   "address": null,
@@ -666,10 +525,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.118004",
-  "name": "FNS Panama HQ",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Panama HQ"
  },
  {
   "address": null,
@@ -680,10 +536,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.165314",
-  "name": "FNS Panama Project",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Panama Project"
  },
  {
   "address": null,
@@ -694,10 +547,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.178917",
-  "name": "FNS Panama Travel",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Panama Travel"
  },
  {
   "address": null,
@@ -708,10 +558,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.188121",
-  "name": "ROADX GLOBAL MEXICO(HQR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "ROADX GLOBAL MEXICO(HQR)"
  },
  {
   "address": null,
@@ -722,10 +569,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.198984",
-  "name": "ROADX GLOBAL MEXICO(OP)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "ROADX GLOBAL MEXICO(OP)"
  },
  {
   "address": null,
@@ -736,10 +580,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.210241",
-  "name": "ROADX TRANSPORTATION LLC",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "ROADX TRANSPORTATION LLC"
  },
  {
   "address": null,
@@ -750,10 +591,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.218517",
-  "name": "ROADX TRANSPORTATION LLC(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "ROADX TRANSPORTATION LLC(HQ)"
  },
  {
   "address": null,
@@ -764,10 +602,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.228463",
-  "name": "FNS Customs Brokers (LRD)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Customs Brokers (LRD)"
  },
  {
   "address": null,
@@ -778,10 +613,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.237882",
-  "name": "FNS Customs Brokers (LAX)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Customs Brokers (LAX)"
  },
  {
   "address": null,
@@ -792,10 +624,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.248173",
-  "name": "FNS Customs Brokers (HQR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS Customs Brokers (HQR)"
  },
  {
   "address": null,
@@ -806,10 +635,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.258817",
-  "name": "FNS, Inc (SAV)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (SAV)"
  },
  {
   "address": null,
@@ -820,10 +646,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.268122",
-  "name": "FNS, Inc (KOR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (KOR)"
  },
  {
   "address": null,
@@ -834,10 +657,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.279278",
-  "name": "FNS, Inc (NORFOLK WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (NORFOLK WH)"
  },
  {
   "address": null,
@@ -848,10 +668,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.288999",
-  "name": "FNS, Inc (KCY WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (KCY WH)"
  },
  {
   "address": null,
@@ -862,10 +679,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.299315",
-  "name": "FNS, Inc (SD WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (SD WH)"
  },
  {
   "address": null,
@@ -876,10 +690,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.311791",
-  "name": "FNS, Inc (MORROW WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (MORROW WH)"
  },
  {
   "address": null,
@@ -890,10 +701,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.322426",
-  "name": "FNS, Inc (HOU)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (HOU)"
  },
  {
   "address": null,
@@ -904,10 +712,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.363360",
-  "name": "FNS, Inc (BROKERAGE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (BROKERAGE)"
  },
  {
   "address": null,
@@ -918,10 +723,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.394944",
-  "name": "FNS, Inc (MI WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (MI WH)"
  },
  {
   "address": null,
@@ -932,10 +734,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.412127",
-  "name": "FNS, Inc (OHO)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (OHO)"
  },
  {
   "address": null,
@@ -946,10 +745,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.580480",
-  "name": "FNS, Inc (MFE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (MFE)"
  },
  {
   "address": null,
@@ -960,10 +756,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.627703",
-  "name": "FNS, Inc (PKG)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (PKG)"
  },
  {
   "address": null,
@@ -974,10 +767,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.719164",
-  "name": "FNS, Inc (SEA)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (SEA)"
  },
  {
   "address": null,
@@ -988,10 +778,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.770211",
-  "name": "FNS, Inc (SFO)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (SFO)"
  },
  {
   "address": null,
@@ -1002,10 +789,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.824762",
-  "name": "FNS, Inc (HUB)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (HUB)"
  },
  {
   "address": null,
@@ -1016,10 +800,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.895262",
-  "name": "FNS, Inc (CHI)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (CHI)"
  },
  {
   "address": null,
@@ -1030,10 +811,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.928904",
-  "name": "FNS, Inc (DFW)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (DFW)"
  },
  {
   "address": null,
@@ -1044,10 +822,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:50.969556",
-  "name": "FNS, Inc (ATL)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (ATL)"
  },
  {
   "address": null,
@@ -1058,10 +833,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.015752",
-  "name": "FNS, Inc (MIA)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (MIA)"
  },
  {
   "address": null,
@@ -1072,10 +844,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.040457",
-  "name": "FNS, Inc (NYC)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (NYC)"
  },
  {
   "address": null,
@@ -1086,10 +855,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.084881",
-  "name": "FNS, Inc (LAX LONGHAUL)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (LAX LONGHAUL)"
  },
  {
   "address": null,
@@ -1100,10 +866,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.124459",
-  "name": "FNS, Inc (LAX DRAYAGE)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (LAX DRAYAGE)"
  },
  {
   "address": null,
@@ -1114,10 +877,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.181838",
-  "name": "FNS, Inc (LAX WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (LAX WH)"
  },
  {
   "address": null,
@@ -1128,10 +888,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.220654",
-  "name": "FNS, Inc (LAX OCEAN)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (LAX OCEAN)"
  },
  {
   "address": null,
@@ -1142,10 +899,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.277984",
-  "name": "FNS, Inc (LAX AIR)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (LAX AIR)"
  },
  {
   "address": null,
@@ -1156,10 +910,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.496501",
-  "name": "FNS MOBILE SVC",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS MOBILE SVC"
  },
  {
   "address": null,
@@ -1170,10 +921,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.619871",
-  "name": "FNS, Inc (FLD)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "FNS, Inc (FLD)"
  },
  {
   "address": null,
@@ -1184,10 +932,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.754234",
-  "name": "UTC(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "UTC(HQ)"
  },
  {
   "address": null,
@@ -1198,10 +943,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.785205",
-  "name": "PANTOS CANADA, INC (HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA, INC (HQ)"
  },
  {
   "address": null,
@@ -1212,10 +954,7 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.839656",
-  "name": "PANTOS CANADA, INC (WH)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "PANTOS CANADA, INC (WH)"
  },
  {
   "address": null,
@@ -1226,9 +965,50 @@
   "docstatus": 0,
   "doctype": "Branch",
   "modified": "2022-06-23 15:33:51.880355",
-  "name": "HELISTAR(HQ)",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null
+  "name": "HELISTAR(HQ)"
+ },
+ {
+  "address": null,
+  "biz_no": null,
+  "branch": "FNS, CHINA(SHA)",
+  "branch_code": "SHA",
+  "company": "FNS,Inc",
+  "docstatus": 0,
+  "doctype": "Branch",
+  "modified": "2022-07-04 00:39:55.096057",
+  "name": "FNS, CHINA(SHA)"
+ },
+ {
+  "address": null,
+  "biz_no": null,
+  "branch": "NANO FILTER, INC(HQ)",
+  "branch_code": "NFH",
+  "company": "FNS,Inc",
+  "docstatus": 0,
+  "doctype": "Branch",
+  "modified": "2022-07-04 00:40:31.643707",
+  "name": "NANO FILTER, INC(HQ)"
+ },
+ {
+  "address": null,
+  "biz_no": null,
+  "branch": "APAC ATL Customs Brokers",
+  "branch_code": "CHA",
+  "company": "FNS,Inc",
+  "docstatus": 0,
+  "doctype": "Branch",
+  "modified": "2022-07-04 00:41:06.742459",
+  "name": "APAC ATL Customs Brokers"
+ },
+ {
+  "address": null,
+  "biz_no": null,
+  "branch": "FNS Logistics Pte Ltd",
+  "branch_code": "SGW",
+  "company": "FNS,Inc",
+  "docstatus": 0,
+  "doctype": "Branch",
+  "modified": "2022-07-04 00:41:43.619776",
+  "name": "FNS Logistics Pte Ltd"
  }
 ]

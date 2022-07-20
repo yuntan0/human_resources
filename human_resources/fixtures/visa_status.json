@@ -5,9 +5,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:57:40.397718",
   "name": "C1",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "C1",
   "visa_status": "Canadian Citizen"
@@ -18,9 +15,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:58:15.610577",
   "name": "EAD",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "EAD",
   "visa_status": "Employment Authorization Document"
@@ -31,9 +25,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:58:28.159556",
   "name": "ETC",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "ETC",
   "visa_status": "Others"
@@ -44,9 +35,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:58:36.427284",
   "name": "GC",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "GC",
   "visa_status": "Permanent Resident"
@@ -57,9 +45,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:58:44.749277",
   "name": "H1",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "H1",
   "visa_status": "H Visa"
@@ -70,9 +55,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:58:52.316185",
   "name": "J1",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "J1",
   "visa_status": "J Visa"
@@ -83,9 +65,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:58:58.933762",
   "name": "L1A",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "L1A",
   "visa_status": "L1A Visa"
@@ -96,9 +75,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:59:10.078981",
   "name": "O1",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "O1",
   "visa_status": "OPT"
@@ -109,9 +85,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:59:19.845548",
   "name": "U1",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "U1",
   "visa_status": "US Citizen"
@@ -122,9 +95,6 @@
   "doctype": "Visa Status",
   "modified": "2022-06-28 15:59:28.359813",
   "name": "W1",
-  "parent": null,
-  "parentfield": null,
-  "parenttype": null,
   "remark": null,
   "visa_code": "W1",
   "visa_status": "CA Work Permit"
