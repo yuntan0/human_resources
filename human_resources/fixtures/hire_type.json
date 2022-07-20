@@ -14,7 +14,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "002",
-  "hire_type_nm": "002",
+  "hire_type_nm": "Experience",
   "modified": "2022-06-29 16:43:32.676664",
   "name": "Experience",
   "remark": null
@@ -24,7 +24,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "003",
-  "hire_type_nm": "003",
+  "hire_type_nm": "Subsidiary Transfer",
   "modified": "2022-06-29 16:43:47.536102",
   "name": "Subsidiary Transfer",
   "remark": null
@@ -34,7 +34,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "004",
-  "hire_type_nm": "004",
+  "hire_type_nm": "Head Hunting",
   "modified": "2022-06-29 16:44:01.044975",
   "name": "Head Hunting",
   "remark": null
@@ -44,7 +44,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "005",
-  "hire_type_nm": "005",
+  "hire_type_nm": "Other",
   "modified": "2022-06-29 16:44:14.137120",
   "name": "Other",
   "remark": null
@@ -54,7 +54,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "006",
-  "hire_type_nm": "006",
+  "hire_type_nm": "Re-Hire",
   "modified": "2022-06-29 16:44:25.340461",
   "name": "Re-Hire",
   "remark": null
@@ -64,7 +64,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "007",
-  "hire_type_nm": "007",
+  "hire_type_nm": "Intern",
   "modified": "2022-06-29 16:44:34.935506",
   "name": "Intern",
   "remark": null
@@ -74,7 +74,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "008",
-  "hire_type_nm": "008",
+  "hire_type_nm": "Part Time",
   "modified": "2022-06-29 16:44:45.890632",
   "name": "Part Time",
   "remark": null
@@ -84,7 +84,7 @@
   "docstatus": 0,
   "doctype": "Hire Type",
   "hire_type_cd": "009",
-  "hire_type_nm": "009",
+  "hire_type_nm": "Independent Contractor",
   "modified": "2022-06-29 16:44:58.015792",
   "name": "Independent Contractor",
   "remark": null
